@@ -2,7 +2,7 @@
 
 Meu nome é Ana Beatriz dos Santos 
 
-- Eu estou estudando na Alura
+- Eu estou estudando na [Alura](https://www.alura.com.br/)
 
 - Aqui compartilharei meus projetos
 
